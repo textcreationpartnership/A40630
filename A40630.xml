@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The testimony of Abraham Fuller, concerning the death of his son Joseph Shewing his blessed condition in the time of his sickness, and when he was near his departure: how wonderfully the Lord did appear by his spirit and power, revealing himself in him (after death has seised upon him) in a greater measure then ever before.</title>
+            <author>Fuller, Abraham, d. 1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40630</idno>
+            <idno type="STC">Wing F2381A</idno>
+            <idno type="STC">ESTC R220312</idno>
+            <idno type="EEBO-CITATION">99831731</idno>
+            <idno type="PROQUEST">99831731</idno>
+            <idno type="VID">36198</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40630)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36198)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2126:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The testimony of Abraham Fuller, concerning the death of his son Joseph Shewing his blessed condition in the time of his sickness, and when he was near his departure: how wonderfully the Lord did appear by his spirit and power, revealing himself in him (after death has seised upon him) in a greater measure then ever before.</title>
+                  <author>Fuller, Abraham, d. 1694.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at dated at end: Abraham Fuller. The 24th day of the first month called March, 1686/7.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fuller, Joseph --  Early works to 1800.</term>
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Death --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36198:1" rendition="simple:additions"/>
+            <p>THE TESTIMONY OF <hi>ABRAHAM FULLER,</hi> CONCERNING The Death of his Son JOSEPH.</p>
+            <p>SHEWING His Bleſſed Condition in the time of his Sickneſs, and when he was near his De<g ref="char:EOLhyphen"/>parture: How wonderfully the Lord did appear by his Spirit and Power, Revealing Himſelf in him (after Death had ſeiſed upon him) in a greater meaſure then Ever before.</p>
+            <q>Bleſſed are the Dead which Die in the Lord,
+<bibl>
+                  <hi>Rev:</hi> 14:13</bibl>
+            </q>
+            <p>Printed in the Year, 1687</p>
+         </div>
+      </front>
+      <body>
+         <div type="testimony">
+            <pb facs="tcp:36198:2"/>
+            <pb n="1" facs="tcp:36198:2"/>
+            <head>The Teſtimony of <hi>Abraham Fuller,</hi> &amp;c.</head>
+            <p>
+               <hi>THis Teſtimony i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to relate the dealings of the Lord. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f his Love and ten<g ref="char:EOLhyphen"/>der Mercy towards my youngeſt Son</hi> Jo<g ref="char:EOLhyphen"/>ſeph <hi>in the time of his Weakneſs; and ſome of the remarkable Words he uttered a pretty time before, and near, his Death, whereby it doth appear that the Lord had lighted his Candle And now it is before me, That it may be of ſervice, to make known what the Lord hath done for this young Mans Soul, that ſo all who hear thereof both Young and Old, may wait, longing and breathing to feel the Lords ap<g ref="char:EOLhyphen"/>pearance in them; for which end I deſire that what is here ſet forth may be Read in the Meetings of Friends, called</hi> Quakers, <hi>throughout all</hi> Ireland; <hi>and as Friends ſee meet they may ſpread it where it may do ſervice.</hi>
+            </p>
+            <p>DUring the time of about eleven Weeks, while my ſaid Son <hi>Joſeph</hi> was taking things to Cure him of his Diſtemper, the pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence of the Lord did often refreſh him.</p>
+            <p>About eighteen days before his Death, I be<g ref="char:EOLhyphen"/>ing moved to ſupplicate the Lord by his Bed<g ref="char:EOLhyphen"/>ſide,
+<pb facs="tcp:36198:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:36198:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:36198:4"/>the ſtream of Life did ſo flow in him, that juſt after he ſpoke ſeveral Words tending to praiſe the Lord for his Merciful Appearance in his Love unto his Soul.</p>
+            <p>About three days before his Death, upon a firſt day at night, I deſired Relations which were in the Houſe to ſit down in <hi>Joſeph</hi>'s Room to wait upon the Lord; at which time of waiting (through the Lord's movings) ſome words were ſpoken; after which time, I ask'd him how he did, and whether it was not trouble<g ref="char:EOLhyphen"/>ſome, or hard to him to have ſate ſo long? His Anſwer was, <hi>I bleſs the Lord for this opportunity.</hi>
+            </p>
+            <p>One day before his Death in the Morning. his Brother <hi>Iſaac</hi>'s Wife, asked him, How he did? He ſaid, <hi>Siſter</hi> Jane, <hi>I had a weariſome Night; but I have had Joy in the preſence of the Lord.</hi>
+            </p>
+            <p>The next night following, between the ſe<g ref="char:EOLhyphen"/>cond and third hour, his Siſter <hi>Jane</hi> watching with him, and finding him very weak; Sent one into the next room to call me up, and while I was putting on my Clothes, he was in great extremity of pain, Death ſeiſing upon him: And then all of a ſudden, the Power o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord wrought ſo in him that the Bed did ſhake under him, and he ſaid, (as if he Sung) <hi>living Praiſes to the God of Heaven, and Hea<g ref="char:EOLhyphen"/>venly Halelujahs to the Lord, for thus breaking in upon me beyond Expectation;</hi> then he ſaid to his Siſter <hi>Jane, never ſince I was born ſuch words came
+<pb n="3" facs="tcp:36198:4"/>from me, this is of the Lord;</hi> He uttered more words, but ſhe cannot plainly remember them.</p>
+            <p>When my Clothes were on, I came to his Bed-ſide, not knowing any thing of what was paſt juſt before, and after a while ſitting near him, and ſpeaking of the Lords dealings to<g ref="char:EOLhyphen"/>wards Me in my great Diſtemper, at that in<g ref="char:EOLhyphen"/>ſtant, when I thought I ſhould have dyed, then he told Me, <hi>a little while a go, the Power of the Lord did run thorow me, from the ſole of my Foot to the Crown of my Head:</hi> And further ſaid, as followeth, <hi>It was as Marrow to my Bones, praiſed be the Lord for his Love and Mer<g ref="char:EOLhyphen"/>cy, which endureth for ever and evermore.</hi> Theſe were his very Expreſſions, as near as can be re<g ref="char:EOLhyphen"/>membred.</p>
+            <p>Afterwards he ſaid, <hi>Father, tell all my dear Brothers and Siſters to take their Minds from the things of the World, and have their Minds fixed upon the Lord.</hi>
+            </p>
+            <p>His Brother <hi>Iſaac</hi> being come near his Bed<g ref="char:EOLhyphen"/>ſide, he turned his Head towards him, and ſaid, <hi>Dear Brother, that hears me there, ſet not thy Heart upon the things of this World, but mind the Lord; Iſaac</hi>'s Heart, being tendered, was weeping and mournign ſomewhat loud; he ſaid to him, <hi>Do not take on too much, but mind the Lord.</hi>
+            </p>
+            <p>The foregoing Exhortations, Relating to his Brothers and Siſters, he ſpoke in a fervent Zeal,
+<pb n="4" facs="tcp:36198:5"/>as being conſtrained thereunto by the Power and Love of God in his Heart.</p>
+            <p>About the fourth hour, his eldeſt Siſter, and his C<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſen <hi>Sarah Fuller,</hi> coming to his Bed ſide, he kiſſed them a d bid them <hi>Farewell.</hi>
+            </p>
+            <p>A li<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tle w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ile after he t<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k me by the hand very ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſibly, and ſaid <hi>Farewell, Farewell.</hi>
+            </p>
+            <p>And a pretty while after, he ſaid to his Siſter <hi>Jane Dear Siſter I love thee dearly well, I thought to have gone, when I bid you farewell</hi> (meaning her and me) <hi>but I ſhall not go yet: But that little ſtrength the Lord hath given me, I know not how ſoon he may take it away,</hi> and he ſignified by words that he was ready.</p>
+            <p>Some time after he ſaid, <hi>Siſter</hi> Jane, <hi>long a dy<g ref="char:EOLhyphen"/>ing, becauſe I die upwards:</hi> And at ſundry times he ſignified by looking up and lifting up his hand, that he felt the preſence of the Lord: And once he ſaid, <hi>Do not bury me ſoon:</hi> And deſired that <hi>Jane</hi> and <hi>I,</hi> ſhould ſtay by him.</p>
+            <p>About a quarter of an hour before he drew his laſt breath, he ſaid, <hi>Siſter, ſee what hour it is,</hi> ſhe ſaid it was ſeven, then he asked her, <hi>lies my head right for dying, if it doth not lie right do thee lay it right;</hi> She told him, that it did lye right; And ſo he laid until he drew his laſt Breath, about a quarter p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt ſeven by the Watch in the morning, the ſeventeenth of the twelfth month (called) <hi>Fe<g ref="char:EOLhyphen"/>bruary, Anno</hi> 1686/7 being about 25 years of age.</p>
+            <pb n="5" facs="tcp:36198:5"/>
+            <p>And now Dear Friends; All you who are Pa<g ref="char:EOLhyphen"/>rents of Children, let us Reaſon a little; is there not ſufficient Cauſe that we ſhould be freely wil<g ref="char:EOLhyphen"/>ling to let the Lord take (if it be his heavenly will) that Child which he gave us? Can we beget life, or keep Life by our own Power? Which we know we cannot, ought we not then to ſubmit, without murmuring, to the Will of that great and mighty Creator of Heaven and Earth, and all that is there<g ref="char:EOLhyphen"/>in, who gave us Life, and can take it away accor<g ref="char:EOLhyphen"/>ding to his Will? Can we procure ſpiritual Food to feed the Soul, or temporal food to feed the body by our own power? We know we cannot, ought we not then to commit our Children, &amp; our ſelves alſo into the hand of the Lord, who can and doth in his tender Love, both feed the Soul and Body?</p>
+            <p>It is plain to be underſtood by the words of this dying young man, that the Lord from Heaven did feed his Soul with heavenly food, the bread of Life; ſo that there is no need to ſend for a mortal Prieſt to come to thoſe, to whom, the immortal everlaſt<g ref="char:EOLhyphen"/>ing heavenly high Prieſt comes freely to nouriſh, ſtrengthen, comfort, and conſolate the Soul with his Living Preſence, which far exceeds outward Bread and Wine, which the Earth produceth, pre<g ref="char:EOLhyphen"/>pared by Man, what-ever Man may call it, whe<g ref="char:EOLhyphen"/>ther the <hi>Real Preſence,</hi> or the <hi>Communion;</hi> how<g ref="char:EOLhyphen"/>ever it is given and taken outwardly, and is viſible to the outward Eye: But the <hi>Preſence</hi> of the Lord which this young man felt was inward &amp; inviſible,
+<pb n="6" facs="tcp:36198:6" rendition="simple:additions"/>and we need not doubt but what he felt was <hi>Real,</hi> &amp; that for him the Heavenly Table was ſpread, the Bread broken and reacht forth to him, and that he did eat thereof &amp; that the Cup of Bleſſing (which we bleſs) was given him, and that he d<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Drink thereof, and that it was for this wonderful, inviſi<g ref="char:EOLhyphen"/>ble hand<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs forth that he praiſed the Lord.</p>
+            <p>The Pſalmiſt ſaith in <hi>Pſal.</hi> 104.15 that <hi>Wine maketh glad the heart of Man, and that bread ſtrengthneth Man's heart:</hi> (Mark) when Death had ſeiſed upon this young Man, outward Bread and outward Wine could neither ſtrengthen nor make glad his Heart; but the Bread which the Lord from Heaven gave him, ſtrengthened his in<g ref="char:EOLhyphen"/>ward Man; and the Wine of the Kingdom made his Soul to rejoice, and cauſed <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſing Prai<g ref="char:EOLhyphen"/>ſes unto the Lord; And when he related unto me, how wonderful the Lord had filled him with his Power, he ſaid that it was as Marrow to his Bones.</p>
+            <p>By this it doth appear that the Lord doth re<g ref="char:EOLhyphen"/>veal himſelf now a days, as he did in the days of old, though ſome through unbelief ſay, that Re<g ref="char:EOLhyphen"/>velation is ceaſed. But bleſſed be the Lord, it is otherwiſe; for Chriſt ſaid, <hi>No Man knoweth who the Son is, but the Father; and who the Father is, but the Son, and he to whom the Son will reveal him,</hi> Luk 10.22. And the Apoſtle <hi>Paul</hi> ſaith. <hi>When it pleaſed God, who ſeparated me from my Mothers Womb, and called me by his grace, to reveal his Son
+<pb n="7" facs="tcp:36198:6" rendition="simple:additions"/>in me, &amp;c.</hi> Gal 1.15.16. By theſe ſayings, It is plain to be underſtood that the Son reveals the Father, and that the Father reveals the Son; ſo then if Revelation be ceaſed, none can know the Father nor the Son; but we know better things, and ſo did this young Man, to whom the Lord did appear, and made himſelf known, or revealed him<g ref="char:EOLhyphen"/>ſelf in a greater meaſure (after Death had ſeiſed upon him) than he did before, beyond expectati<g ref="char:EOLhyphen"/>on breaking in upon him (ſo that the Bed did ſhake under him) by his mighty power which he felt within him, from the Sole of the Foot to the Crown of the Head, for which he praiſed the Lord.</p>
+            <p>When <hi>the Glory of the Lord, filled the Houſe of the Lord,</hi> at the Dedication of the Temple, King <hi>Solomon</hi> praiſed the Lord, 1 <hi>King,</hi> 8.11.23.</p>
+            <p>When the Apoſtles waited at <hi>Jeruſalem,</hi> for the promiſe of the Father; of a ſudden there came a ſound from Heaven, as of a ruſhing mighty Wind, which filled all the Houſe where they were ſitting, and they were filled with the Holy Ghoſt, and began to ſpeak with other Tongues of the wonderful works of God, which was to the praiſe of the Lord.</p>
+            <p>(Mark) it is even ſo now, as it was then, the appearance of the Lord in us worketh the ſame ef<g ref="char:EOLhyphen"/>fect in meaſure. When this young Man was ſo fil<g ref="char:EOLhyphen"/>led with the Power of God, there came ſuch words from him (in praiſing the Lord openly) as never
+<pb n="8" facs="tcp:36198:7"/>came from him ſince he was born, as he told his Siſter <hi>Jane,</hi> and ſaid, that it was of the Lord: It is to me, as if he would ſignifie that he knew not how to ſpeak ſuch words, but as the Lord put them into his Mouth.</p>
+            <p>Let none who reads this, think it ſtrange that the Lord ſhould fill our Bodies with his Glory! for the Apoſtle <hi>Paul</hi> ſaith, <hi>that our Bodies are the Temples of God,</hi> 1 Cor. 3.16, 17. <hi>&amp;</hi> 6.19. 2 Cor. 6.16. which Temple ought not to be de<g ref="char:EOLhyphen"/>filed, that ſo we may not be unfit but ſit Veſſels for the Lords uſe, that the Lord may delight to fill us with his glorious power, when he ſees meet to aſſure us that his Mercy, Love and Kindneſs, endures for ever to thoſe that love him, and waits in the Faith for his appearance in them.</p>
+            <p>Let it be conſidered by every one, if it be not for want of truly waiting to receive from the hand of the Lord, that they do not receive, and for want of waiting for his appearance in them, that he doth not appear, and for want of waiting for the revelation of God, that he doth not reveal himſelf to them, the door of their Hearts, (thrô unbelief) being ſhut, when he knocks they do not open, but let him ſtand without. (Mark) when the Lord Jeſus Chriſt did the outward Miracles in healing of thoſe who had infirmities, and did believe that he could heal them, according to their Faith and Be<g ref="char:EOLhyphen"/>lief they were healed; and ſometimes he ſaid, <hi>Thy Faith hath made thee whole,</hi> and the infirmity was
+<pb n="9" facs="tcp:36198:7"/>taken away; Is not this enough to perſwade all who profeſs Chriſtianity to wait in the Faith, to receive from the hand and by the power of God, all that they ſtand in need of both Spiritual and Temporal, inward &amp; outward in the time of need, which is not hi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from him, who ſees all, hears all, and knows all, though never ſo ſecret with man.</p>
+            <p>Now let us take notice what this wonderful ap<g ref="char:EOLhyphen"/>pearance of the Power of God in this dying young man brought forth, about an hour after he had o<g ref="char:EOLhyphen"/>penly ſung Praiſes to the Lord, he left with me an Exhortation to his Brothers and Siſters, with ſuch a fervent Zeal, that I am very ſenſible that he was conſtrained thereunto by the power of God; the Lord filling him with an overflowing ſtream of L<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and Love towards them, and in that he exhorted his Brother, (that came to his Bed-ſide) not to ſet his Heart upon the things of the World, but to mind the Lord. (Mark) During the time of his Weakneſs, he did not the like before, thô the Lords preſence did often refreſh him: But then, after the Lord had fitted him for that work, he did it, and his Brother was tendered, and both his Siſter <hi>Jane,</hi> and my ſelf were refreſhed.</p>
+            <p>That which is miniſtred by the movings of the Spirit and Power of God, though it might come from one younger than he, it doth tender and re<g ref="char:EOLhyphen"/>freſh, and therefore it is not to be ſlighted or un<g ref="char:EOLhyphen"/>dervalued, nor to be ſpoken againſt, but ought to be wiſhed for, that out of the Mouthes of Babes
+<pb n="10" facs="tcp:36198:8"/>and Sucklings the Lord may have Praiſe: of ſuch a Mind was that great Prophet the meek man <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> who when one brought word to him that <hi>El<g ref="char:EOLhyphen"/>dad</hi> and <hi>Medad</hi> did Propheſie in the Camp, and one would have had him to forbid them; he ſaid, <hi>envieſt thou for my ſake? would God that all the Lords people were Prophets</hi> Numb. 11.29. This was the free Spirit in <hi>Moſes;</hi> that Spirit will not limit the Miniſtry of the Goſpel to the ordination of man. but leave that work to the Lords ordain<g ref="char:EOLhyphen"/>ing, as the Apoſtle <hi>Paul</hi> ſaith, <hi>the Goſpel which was Preached of me, is not after Man, for I neither re<g ref="char:EOLhyphen"/>ceived it of Man, neither was I taught it but by the Revelation of Jeſus Chriſt,</hi> Gal. 1.11.12. And ſuch do not Miniſter for any ſelfiſh by end, nor for hire or reward, but for the Glory of the Lord, to draw Men from the dark things of the World to God who is Light, which cauſed the Apoſtle <hi>Paul</hi> to ſay, <hi>Wo is me if I preach not the Goſpel,</hi> 1 Cor. 4.16. He was a true Miniſter of Chriſt the word of God, and ſo are all thoſe (according to their meaſures) who are conſtrained to Miniſter by the Life &amp; Power of God, who worketh won<g ref="char:EOLhyphen"/>derfully according to his Will; and thoſe who re<g ref="char:EOLhyphen"/>ceive this virtue from his free &amp; liberal hand, they are ſtirred up by his Spirit and Power to give freely that which they have freely received.</p>
+            <p>And now what this dying young Man laid up<g ref="char:EOLhyphen"/>on me to tell his Brothers and Siſters, I am not on<g ref="char:EOLhyphen"/>ly willing to do that; but alſo give this forth in
+<pb n="11" facs="tcp:36198:8"/>Print, and beſtow the ſame freely to thoſe who are willing to read it, deſiring that all may lay to Heart that exhortation of this dying young man, and ac<g ref="char:EOLhyphen"/>cording to his words, to take their minds from the things of the World and have their minds fixed upon the Lord, that ſo when they die, they may die in the Lord, and be bleſſed.</p>
+            <p>Though there are but few words in that exhor<g ref="char:EOLhyphen"/>tation, yet it contains ſo much as the new Birth, <hi>without which</hi> (as Chriſt ſaid unto <hi>Nicodemus</hi>) <hi>a man cannot enter into the Kingdom of God,</hi> John 3.5.</p>
+            <p>Therefore in true Love, my advice and Counſel is to all Friends, Children, and thoſe who are new<g ref="char:EOLhyphen"/>ly convinced, &amp; ſuch as have been long convinced, &amp; are not come ſo far as to feel &amp; find their hearts, minds, and ſpirits changed and renewed by the ſpi<g ref="char:EOLhyphen"/>rit &amp; power of God, which would cleanſe, purifie, &amp; ſanctifie them throughout body, ſoul, &amp; ſpirit.</p>
+            <p>See that not one of you take up a Reſt or Sa<g ref="char:EOLhyphen"/>tisfaction in that you are the Children of the Pro<g ref="char:EOLhyphen"/>feſſors of the Truth, and have been Educated in the way of Truth, and have all a-long come to Friends Meetings, or in that it is the very Truth which you do profeſs; but preſs forward to run the race of the Righteous, which is ſet before you, that you may obtain the Prize of the high calling of God in Chriſt: And in the humility of your Hearts, Minds &amp; Spirits wait upon the Lord, earneſtly deſiring night and day that he may ſend into your Poſſeſſion the Spirit of Truth, to lead
+<pb n="12" facs="tcp:36198:9"/>you into all Truth out of untruth, from under the power of Satan unto the power of God; out of darkneſs into that marvellous Light which ſhines in the dark Heart, that your Candle may be lighted by the Lord, (according to <hi>David</hi>'s Teſtimony, who ſaid, <hi>thou wilt Light my Can<g ref="char:EOLhyphen"/>dle, the Lord my God will enlighten my darkneſs,</hi> Pſal. 18.28.) that ſo you may become the Chil<g ref="char:EOLhyphen"/>dren of Light, Sons and Daughters begotten of God, (<hi>who is Light, and in whom is no Darkneſs at all,</hi> 1 John 1.5.) that you may be Holy (ac<g ref="char:EOLhyphen"/>cording to that ſaying of the Lord, <hi>be you Holy for I am Holy,</hi> 1 Pet. 1.15.16.) That your Heaven<g ref="char:EOLhyphen"/>ly Father may feed you day by day with Bread from Heaven to ſtrengthen your inward Man, and give you the Wine of the Kingdom to make your Souls to rejoyce, that you may have full Aſſurance before you go hence; that the Lord in his Love and tender Mercy will receive your Souls, when the Soul returns to God from whom it came, and the Body returns to the Earth from whence it was taken. So deſiring that the Grace of God may abound over all in you, and bring you into perfect Peace with the Prince of Peace, whoſe Love is univerſal to all the Sons and Daughters of Men, in which Love I remain a Friend to all Mankind.</p>
+            <closer>
+               <date>The <hi>24th</hi> Day of the firſt Month called <hi>March,</hi> 1686/7.</date>
+               <signed>Abraham Fuller.</signed>
+            </closer>
+            <pb facs="tcp:36198:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
